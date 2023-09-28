@@ -15,7 +15,7 @@ Keyboard support for quick input.
 Responsive design for different screen sizes.
 Clear and intuitive user interface.
 
-Access it here:
+Access it here: https://ironjosh786.github.io/Calculator/
 
 Getting Started:
 
