@@ -4,9 +4,13 @@ This is a lightweight and user-friendly JavaScript calculator that can perform b
 Features:
 
 Basic arithmetic operations: Addition, subtraction, multiplication, division.
+
 Real-time calculation display.
+
 Keyboard support for quick input.
+
 Responsive design for different screen sizes.
+
 Clear and intuitive user interface.
 
 Access it here: https://ironjosh786.github.io/Calculator/
